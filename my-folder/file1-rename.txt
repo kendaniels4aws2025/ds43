@@ -1,2 +1,7 @@
 This is the first line of the file 'file1.txt'
 This line was added to the file 'file1.txt'
+-------------------------------------------------
+Author: Devloper C
+Date 02/13/2025
+Purpose of Change: to check case of pull release
+----------------------------------------------------
