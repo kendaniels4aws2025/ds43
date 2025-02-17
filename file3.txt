@@ -1,0 +1,2 @@
+This is the 3rd file created in the root folder
+file name is 'file3.txt'
