@@ -1,1 +1,2 @@
-This is the first line of the file 'file1.txt' 
+This is the first line of the file 'file1.txt'
+This line was added to the file 'file1.txt'
